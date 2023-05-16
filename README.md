@@ -1,9 +1,9 @@
-# To do list: Interactive list
+# Follow JS best practice
 <a name="readme-top"></a>
 
 <div align="center">
 
-  <h3><b>Interactive list</b></h3>
+  <h3><b>Follow JS best practice</b></h3>
 
 </div>
 
@@ -29,7 +29,7 @@
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
-# 📖Interactive list<a name="about-project"></a>
+# 📖Follow JS best practice<a name="about-project"></a>
 In this project, I add some functionality to my application to make it interactive. The user will also be able to mark task completion by selecting the corresponding checkbox (or undo it by unchecking the checkbox). The updated tasks list will be stored in local storage.
 ## 🛠 Built With <a name="built-with"></a>
 
